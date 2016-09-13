@@ -5,6 +5,28 @@ body {
     font-weight: 400;
 }
 
+/***** header *****/
+/*********************/
+header {
+  background: url(images/backgrounds/1.jpg) no-repeat 50%;
+  background-size: cover;
+  min-height: 100vh;
+}
+.coming-soon {
+  text-align: center;
+  color: #fff;
+  border-bottom: 3px solid #34495e;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.coming-soon h2{
+  margin-top: 50px;
+  font-size: 25px;
+  font-weight: 700;
+  text-shadow: 0 1px 7px rgba(0,0,0,.2);
+}
+
 /***** newsletter *****/
 /*********************/
 
